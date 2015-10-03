@@ -1,0 +1,67 @@
+-------------------------------------------------
+Willkommen in Prima+ konjugierer(v1.1) von Yannis
+Bitte geben sie an in welchem Modus(Indikativ, Konjunktiv) das Verb stehen soll.
+Bitte geben sie an ob sie ihr Wort im Aktiv oder Passiv haben wollen.
+Bitte geben sie die Zeitform an. (0=präsens, 1=perfect, 2=plusquamperfect, 3=imperfekt, 4=Futur, 5=Imperativ)
+Fehler! es giebt keine 
+. Zeitform! Versuchen sie es nochmal.
+Bitte geben sie an ob sie ihr Wort im Sg oder Pl haben wollen.
+Bitte geben sie die Person an.(1,2 oder 3)
+. person!
+Bitte geben sie nun das Verb in der Grundform an. (1. form z.b.: vocare)
+Nun Bitte die 2. form.(z.b.: voco)
+Jetzt bitte die 3. grundform.(z.b.: vocavisse)
+nun nurnoch die passiv-grundform. (die letzte z.b.: vocari)
+Es gab leider ein  Fehler! :( Vieleicht existiert diese Form nicht? Eventuell wurde sie noch nicht programmiert.
+Fertig! Das Wort lautet:
+Infos: 
+so bin ich vorgegeangen:
+Wollen sie das Programm schließen oder neustarten ?
+----------------------Leer String-----------------
+indikativ
+konjungtiv
+aktiv
+passiv
+sg
+pl
+schließen
+neustarten
+----------------------Leer String-----------------
+Bitte versuchen sie es nochmal.
+ - herausfinden der Konjugation. hier: 
+ - wegdenken von "re" hier: 
+ - ausnahme: "Sprech-u"
+ - ausnahme: "Sprech-i"
+ - ausnahme: "Sprech-e"
+ - anhängen der Personalendung. hier:
+ - wegdenken von "isse"
+ - anhängen der Personalendung
+ - wegdenken von "re"
+ - anhängen der Imperativ-endung hier: -ba
+ - anhängen der Imperativ-endung hier: -eba
+ - anhängen der Futurendung hier:"-b"
+ - anhängen der Futurendung hier:"-bu"
+ - anhängen der Futurendung hier:"-bi"
+ - anhängen der Futurendung hier:"-a"
+ - anhängen der Futurendung hier:"-e"
+ - ausnahme : "Sprech-a"
+ - Das wars schon! (es existiert keine Personalendung im imperativ Sg!)
+ - anhängen der Pl-Imperativ-Endung
+ - wegdenken von "ri"
+ - anhengen der Futurendung hier:"-be"
+ - anhängen von "-era"
+ - anhängen von "-re"
+ - eingügen von "-e"
+ - eingügen von "-a"
+ - anfügen der präsens essen form.
+ - anfügen der imperfekt essen form.
+Fehler! 
+ ist ein Irregulares Verb!
+Fehlerhafte Person
+ - anhängen des Imperfektlaut hier:"-a"
+ - anhängen des Imperfektlaut hier:"-e"
+Fehlerhafte Zeit!
+ - anhängen von "-tus"
+ - anhängen von "-ti"
+ - anhängen der konjugativ präsens esse-form.
+ - anhängen der konjugativ imperfekt esse-form.
